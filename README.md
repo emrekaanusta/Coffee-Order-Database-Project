@@ -1,13 +1,59 @@
-Database Systems Project (Sabancı University, CS306)
-This repository contains the three phases of the Database Systems project for the CS306 course at Sabancı University. Below is a brief overview of each phase:
+# 📚 Database Systems Project — *Sabancı University (CS306)*
 
-Phase I: ER Diagram and Relational Model
-Objective: Design a database application by creating an ER diagram, converting it into the relational model, and writing CREATE TABLE and INSERT SQL statements.
-Deliverable: A report including the project description, ER model, and relational model with SQL scripts.
-Phase II: Triggers, Stored Procedures, and Web Access
-Objective: Implement a trigger and a stored procedure to automate key tasks in the database. Additionally, create a web interface for data interaction, enabling data insertion and result display.
-Deliverable: SQL scripts for the trigger and stored procedure, web interface files, and a report with screenshots demonstrating functionality.
-Phase III: Real-Time Support Page with Firebase
-Objective: Develop a real-time support system using Firebase to enable communication between users and admins. Includes a user-facing support page and an admin panel with real-time updates.
-Deliverable: Firebase-integrated web pages and a report showcasing the support and admin pages with implementation details.
-Feel free to explore the repository for detailed files and documentation for each phase!
+Welcome to the official repository for the **Database Systems Course Project** completed as part of **CS306** at *Sabancı University*.  
+This multi-phase project showcases the full development cycle of a database application — from design to deployment — combining SQL, triggers, stored procedures, and a real-time web-based support system using Firebase.
+
+---
+
+## 📁 Project Phases
+
+### 🔹 **Phase I: Data Modeling & SQL Foundations**
+**Goal:**  
+Design the foundation of a database application.
+
+- ✔️ Created an **Entity-Relationship (ER) Diagram**
+- 🔁 Translated the ER model into a **Relational Model**
+- 🛠️ Wrote **SQL scripts** with `CREATE TABLE` and `INSERT` statements
+
+**Deliverable:**  
+A comprehensive report with the ER diagram, relational schema, and SQL script documentation.
+
+---
+
+### 🔹 **Phase II: Backend Logic & Web Integration**
+**Goal:**  
+Enhance the database functionality with automation and user interaction.
+
+- 🔄 Implemented a **Trigger** and a **Stored Procedure**
+- 🌐 Developed a simple **Web Interface** for database interaction
+- 📊 Enabled data entry and result display via the browser
+
+**Deliverable:**  
+SQL logic (trigger & procedure), HTML/CSS/JS web interface, and a feature showcase with screenshots.
+
+---
+
+### 🔹 **Phase III: Real-Time Support System with Firebase**
+**Goal:**  
+Build a full-stack, real-time messaging system for user support.
+
+- 💬 Designed a **Support Page** where users submit issues
+- 🧑‍💼 Created an **Admin Dashboard** with secure login and real-time response handling
+- ☁️ Leveraged **Firebase Firestore** for backend and real-time data sync
+
+**Deliverable:**  
+React-based user and admin panels powered by Firebase, along with a report documenting features and implementation.
+
+---
+
+## 🧭 Explore the Repo
+
+Each phase is organized into folders with:
+- 📄 Source code  
+- 📑 Reports  
+- 💡 Screenshots  
+- 🧪 SQL scripts  
+
+We encourage you to dive in and follow the progression from data design to a fully functional support platform.
+
+---
