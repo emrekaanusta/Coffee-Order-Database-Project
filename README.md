@@ -40,6 +40,8 @@ Build a full-stack, real-time messaging system for user support.
 - 💬 Designed a **Support Page** where users submit issues
 - 🧑‍💼 Created an **Admin Dashboard** with secure login and real-time response handling
 - ☁️ Leveraged **Firebase Firestore** for backend and real-time data sync
+<img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/53502e40-2589-4a49-977a-aebd8b4231ca" />
+<img width="854" height="756" alt="image" src="https://github.com/user-attachments/assets/14015c8c-8e25-4989-bc3a-4f21c4a02a77" />
 
 **Deliverable:**  
 React-based user and admin panels powered by Firebase, along with a report documenting features and implementation.
