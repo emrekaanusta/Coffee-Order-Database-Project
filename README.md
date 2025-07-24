@@ -1,5 +1,5 @@
 # 📚 Database Systems Project — *Sabancı University (CS306)*
-
+🧙 CS 210 - Introduction to Data Science Project 🧙
 Welcome to the official repository for the **Database Systems Course Project** completed as part of **CS306** at *Sabancı University*.  
 This multi-phase project showcases the full development cycle of a database application — from design to deployment — combining SQL, triggers, stored procedures, and a real-time web-based support system using Firebase.
 
